@@ -1,5 +1,7 @@
 ---
 title: 使用Github Pages+hexo搭建博客
+date: 2018-07-24 11:54:34
+updated: 2018-07-24 12:00:00
 categories: 博客
 tags: [hexo, github]
 ---

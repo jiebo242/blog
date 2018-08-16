@@ -1,5 +1,7 @@
 ---
 title: 将h-ui-admin前端框架嵌入spring-boot工程
+date: 2018-08-11 11:54:34
+updated: 2018-08-11 12:00:00
 categories: spring-boot
 tags: [spring-boot, 前端框架, H-ui]
 ---
