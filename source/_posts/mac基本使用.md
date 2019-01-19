@@ -69,7 +69,8 @@ mac没有tortoiseGit，不过有其他的，不过想了想还是不装了，初
 [激活码](https://fatesinger.com/100121),得先配置host。  
 [支持gbk编码文件](https://blog.csdn.net/ubuntulover/article/details/21101979)  
 ## Navicat
-官网下载，直接安装，因为这个[激活](https://www.jianshu.com/p/f42785e55b6b)挺费劲的，所以我就没激活。
+官网下载，直接安装，因为这个[激活](https://www.jianshu.com/p/f42785e55b6b)挺费劲的，所以我就没激活。  
+后来到期之后，使用的[无限试用](https://blog.cat73.org/20171219/2017121901.navicat-crack/),和激活也没啥区别。
 ## Beyond-compare
 [git配置bc为默认比对工具](http://linyehui.wikidot.com/using-beyond-compare-in-mac)  
 [IDEA配置bc为默认比对工具](http://guochenglai.com/2016/06/08/mac-beyond-compare-diff-methods/)  
