@@ -41,5 +41,6 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 在windows上面，使用的markdownPad，通过[MarkdownPad官网](http://markdownpad.com/)下载安装  
 - [markdownPad 2无法正常html预览](https://blog.csdn.net/wyc12306/article/details/51504906)  
 - [markdownpad激活及快捷键](https://www.cnblogs.com/shierfen/p/5997558.html)
+
 # 参考资料
 - [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32/)
